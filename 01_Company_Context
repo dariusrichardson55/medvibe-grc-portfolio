@@ -1,0 +1,4 @@
+Business Model: A B2B Software-as-a-Service (SaaS) startup providing a cloud-based patient scheduling and billing platform for private healthcare clinics.
+Company Size: 45 remote-first employees (30 in Engineering/Product, 10 in Sales/Success, 5 in Ops/HR).
+Tech Stack: Hosted entirely on AWS (Amazon Web Services), utilizing an RDS PostgreSQL database for patient records and a React web application.
+Primary Compliance Triggers: Handles Protected Health Information (PHI) and financial transaction data. Their large enterprise clients demand proof of ISO/IEC 27001 compliance before signing contracts.
