@@ -7,7 +7,7 @@ The documentation demonstrates an end-to-end mapping of business risk down to op
 
 ## Portfolio Artefacts
 
-* **01_Company_Context.pdf**  
+* **01_Company_Context**  
   **Establishes the business boundaries, remote-first asset scope, and primary regulatory triggers (including PHI and financial transaction data).**
 
 * **02_Risk_Assessment_Register.pdf**  
